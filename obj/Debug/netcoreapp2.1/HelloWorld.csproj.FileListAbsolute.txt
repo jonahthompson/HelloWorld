@@ -1,0 +1,14 @@
+/home/bone/dev/c_sharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/home/bone/dev/c_sharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/home/bone/dev/c_sharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/home/bone/dev/c_sharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/home/bone/dev/c_sharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cache
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorAssemblyInfo.cs
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.RazorTargetAssemblyInfo.cache
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/home/bone/dev/c_sharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
